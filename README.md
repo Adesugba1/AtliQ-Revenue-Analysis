@@ -18,7 +18,7 @@ The objective of this analysis and report is to provide AtliQ Grands with insigh
 
 ## Revenue Distribution by City
 |City        | Revenue        | Average Rating | RevPAR|
-|------------------------------------------------------|
+|------------|----------------|----------------|-------|
 |Bangalore   | 415.03 million | 3.41           | 7309  |
 |Delhi       | 290.92 million | 3.78           | 7349  |
 |Hyderabad   | 321.17 million | 3.66           | 5405  |
