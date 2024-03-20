@@ -41,6 +41,11 @@ Mumbai stands out as the highest revenue-generating city with the highest RevPAR
 
 Weekends demonstrate higher revenue metrics compared to weekdays, suggesting potential strategies to capitalize on weekend demand and boost overall revenue.
 
+## Dashboard
+![DASHBOARD HOMEPAGE](https://github.com/Adesugba1/AtliQ-Revenue-Analysis/assets/143879001/677ae6cb-0de7-4b42-837b-7be4b2c7ca5c)
+![DASH BOARD PAGE 2](https://github.com/Adesugba1/AtliQ-Revenue-Analysis/assets/143879001/808edc20-e065-4ab3-874a-ce24fada1001)
+
+
 ## Insights & Recommendations
 - Market Segmentation Analysis: By analyzing revenue distribution and performance metrics across cities, AtliQ Grands can identify potential growth opportunities in high-performing cities like Mumbai and Delhi. Strategies can be tailored to enhance market presence and revenue generation in cities with lower performance, such as Hyderabad.
 - Competitive Analysis: Understanding competitor strategies and market positioning can help AtliQ Grands identify areas for improvement and differentiation. Benchmarking against competitors in terms of pricing, service quality, and amenities can guide strategic decision-making to regain market share.
