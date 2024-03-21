@@ -42,6 +42,7 @@ Mumbai stands out as the highest revenue-generating city with the highest RevPAR
 Weekends demonstrate higher revenue metrics compared to weekdays, suggesting potential strategies to capitalize on weekend demand and boost overall revenue.
 
 ## Dashboard
+Click [here](https://app.powerbi.com/view?r=eyJrIjoiYzZlNmZmMWYtNWZkZi00NjhhLThhY2EtZGQyNTRkZDM1ZGQ4IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9) for the interactive Dashboard
 ![DASHBOARD HOMEPAGE](https://github.com/Adesugba1/AtliQ-Revenue-Analysis/assets/143879001/677ae6cb-0de7-4b42-837b-7be4b2c7ca5c)
 ![DASH BOARD PAGE 2](https://github.com/Adesugba1/AtliQ-Revenue-Analysis/assets/143879001/808edc20-e065-4ab3-874a-ce24fada1001)
 
